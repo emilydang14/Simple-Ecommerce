@@ -3,6 +3,7 @@
 ## Introduction
 
 This a simple ecommerce web app. Using the API of commerce.js to manage the products listing as well as using Stripe Card Elements as a payment option. 
+Notes: This is the learning project made with the guidance from Youtube
 
 ## Technology used: 
   - React Js: React Hook
